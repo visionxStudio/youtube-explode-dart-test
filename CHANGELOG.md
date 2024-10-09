@@ -1,3 +1,5 @@
+## 2.2.3
+
 ## 2.2.1
 - Implement `VideoClient.get` to fetch a list of related videos given another Video.
 
